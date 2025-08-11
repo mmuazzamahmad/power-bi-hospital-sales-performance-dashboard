@@ -4,7 +4,7 @@ This repository contains a Power BI project focused on analyzing pharmaceutical 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]([https://via.placeholder.com/800x450.png?text=Insert+Your+Dashboard+Screenshot+Here](https://raw.githubusercontent.com/mmuazzamahmad/power-bi-hospital-sales-performance-dashboard/main/Power%20BI%20-%20Hospital%20Sales%20Performance%20Dashboard%20-%20Muhammad%20Muazzam%20Ahmad.png))
+![Dashboard Screenshot](https://raw.githubusercontent.com/mmuazzamahmad/power-bi-hospital-sales-performance-dashboard/main/Power%20BI%20-%20Hospital%20Sales%20Performance%20Dashboard%20-%20Muhammad%20Muazzam%20Ahmad.png)
 
 ## Project Description
 
